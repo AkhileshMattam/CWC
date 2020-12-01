@@ -1,1 +1,1 @@
-# CWC
+# Coding Wizard Club
